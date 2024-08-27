@@ -1,0 +1,9 @@
+.btn:hover{
+    background:transparent;
+    color:rgb(76, 186, 76);
+    border: solid 1px rgb(76, 186, 76);
+}
+.btn{
+    transition: 500ms;
+}
+
